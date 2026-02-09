@@ -1,0 +1,9 @@
+
+streamlit==1.46.1
+fastapi
+uvicorn
+huggingface_hub
+onnxruntime-gpu
+decord
+pillow
+moviepy
